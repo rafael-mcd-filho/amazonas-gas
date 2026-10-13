@@ -1,0 +1,10 @@
+# Arquivos locais (nao fazem parte do site)
+*.md
+.vercelignore
+.vercel
+.impeccable/
+Entregas/
+node_modules
+.DS_Store
+Thumbs.db
+*.zip
